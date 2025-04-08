@@ -1,2 +1,3 @@
-# hypercore-ios
-Swift package manager version of HyperCore
+# HyperCore
+
+Framework contains the core functionalies of HyperSDK.
