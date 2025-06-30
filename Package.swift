@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyperCore",
-            url: "https://public.releases.juspay.in/release/ios/hyper-core/0.0.6/HyperCore.zip",
-            checksum: "5912cad814655c13c8ea2ba1ed0c6cd0e2989f1c4ccdda39c8f6fa7f8de61ec7"
+            url: "https://public.releases.juspay.in/release/ios/hyper-core/0.0.10/HyperCore.zip",
+            checksum: "4ca17568588f7babccd6b01d4454fabd8439eb51a80138d443b18ce5cebd46d0"
         )
     ]
 )
